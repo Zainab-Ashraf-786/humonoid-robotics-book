@@ -29,7 +29,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/humonoid-robotics-book/physical-ai-humanoid-robotics/edit/main/',
+            'https://github.com/ZainabFullStackLearner/humonoid-robotics-book/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -146,7 +146,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/humonoid-robotics-book/physical-ai-humanoid-robotics',
+              href: 'https://github.com/ZainabFullStackLearner/humonoid-robotics-book',
             },
           ],
         },
