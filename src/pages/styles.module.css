@@ -1,0 +1,5 @@
+// This file allows you to extend Docusaurus functionality
+// We'll use it to add our chatbot widget to all pages
+
+// The Root component is used to wrap the entire site
+// It's located at src/components/ChatbotWidget/Root.tsx

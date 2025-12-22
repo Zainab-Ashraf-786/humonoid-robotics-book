@@ -1,0 +1,42 @@
+{
+  "hero.title": {
+    "message": "فزیکل ای آئی اور ہیومنوڈ روبوٹکس",
+    "description": "Hero section title"
+  },
+  "hero.subtitle": {
+    "message": "ROS 2 فنڈامینٹلز سے ایڈوانسڈ ہیومنوڈ ای آئی انٹیگریشن تک جامع کورس",
+    "description": "Hero section subtitle"
+  },
+  "hero.button.start_learning": {
+    "message": "سیکھنا شروع کریں",
+    "description": "Hero section start learning button text"
+  },
+  "hero.button.view_modules": {
+    "message": "ماڈیولز دیکھیں",
+    "description": "Hero section view modules button text"
+  },
+  "feature.physical_ai_principles.title": {
+    "message": "فزیکل ای آئ کے اصول",
+    "description": "Physical AI Principles feature title"
+  },
+  "feature.physical_ai_principles.description": {
+    "message": "ایمبدڈ سسٹمز میں ایجنٹ، باڈی اور ماحول کے درمیان قریبی رابطے سے ذہانت کیسے وجود میں آتی ہے، اس کو سمجھیں۔",
+    "description": "Physical AI Principles feature description"
+  },
+  "feature.simulation_environments.title": {
+    "message": "سمیولیشن ماحول",
+    "description": "Simulation Environments feature title"
+  },
+  "feature.simulation_environments.description": {
+    "message": "Gazebo کا استعمال کرتے ہوئے فزکس بیسڈ سمیولیشن اور کمپریہنشو روبوٹ ٹیسٹنگ کے لیے یونٹی کے ساتھ فوٹو ریلزم رینڈرنگ ماسٹر کریں۔",
+    "description": "Simulation Environments feature description"
+  },
+  "feature.ai_integration.title": {
+    "message": "AI انٹیگریشن",
+    "description": "AI Integration feature title"
+  },
+  "feature.ai_integration.description": {
+    "message": "روبوٹک سسٹمز میں GPU ایکسلریٹڈ پرسیپشن، نیویگیشن، اور کوگنیٹو پلاننگ کے لیے NVIDIA Isaac کا استعمال کریں۔",
+    "description": "AI Integration feature description"
+  }
+}

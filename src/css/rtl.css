@@ -1,0 +1,80 @@
+/* CSS for RTL (right-to-left) support for Urdu language */
+html[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+html[dir="rtl"] .navbar {
+  text-align: right;
+}
+
+html[dir="rtl"] .navbar__item {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+html[dir="rtl"] .navbar__link {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+html[dir="rtl"] .menu {
+  text-align: right;
+}
+
+html[dir="rtl"] .menu__list .menu__list {
+  margin-right: 0.5rem;
+  margin-left: 0;
+}
+
+html[dir="rtl"] .hero__title,
+html[dir="rtl"] .hero__subtitle {
+  text-align: right;
+}
+
+html[dir="rtl"] .container {
+  text-align: right;
+}
+
+html[dir="rtl"] .alert {
+  text-align: right;
+}
+
+/* Specific RTL adjustments for buttons and form elements */
+html[dir="rtl"] .button {
+  margin-left: 0.5rem;
+  margin-right: 0;
+}
+
+html[dir="rtl"] .form-group {
+  text-align: right;
+}
+
+html[dir="rtl"] .form-control {
+  text-align: right;
+}
+
+/* RTL for documentation specific elements */
+html[dir="rtl"] .theme-doc-sidebar-menu {
+  text-align: right;
+}
+
+html[dir="rtl"] .markdown {
+  text-align: right;
+}
+
+html[dir="rtl"] .pagination-nav {
+  text-align: right;
+}
+
+/* RTL for specific components */
+html[dir="rtl"] .chatbot-widget {
+  direction: rtl;
+  right: 20px;
+  left: auto;
+}
+
+html[dir="rtl"] .chatbot-float-button {
+  right: 20px;
+  left: auto;
+}

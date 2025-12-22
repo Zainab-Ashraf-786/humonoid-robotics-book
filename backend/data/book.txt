@@ -1,0 +1,15 @@
+Welcome to the Physical AI & Humanoid Robotics Course.
+
+This is a comprehensive guide to understanding and developing humanoid robotics systems using modern AI techniques. The course covers everything from basic robotics principles to advanced machine learning applications in humanoid robots.
+
+Chapter 1: Introduction to Humanoid Robotics
+Humanoid robots are robots with human-like features. They are designed to mimic human behavior and are typically bipedal, have a head, two arms, and two legs.
+
+Chapter 2: ROS 2 (Robot Operating System 2)
+ROS 2 is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robot platforms.
+
+Chapter 3: Physical AI Concepts
+Physical AI combines artificial intelligence with physical systems. This interdisciplinary approach enables robots to interact with the physical world intelligently.
+
+Chapter 4: Machine Learning in Robotics
+Machine learning algorithms allow robots to learn from experience, adapt to new situations, and make intelligent decisions based on sensor data.

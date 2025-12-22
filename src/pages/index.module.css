@@ -1,0 +1,138 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: left; /* Left-aligned as requested */
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem 0;
+    text-align: center; /* Center on mobile */
+  }
+}
+
+.heroContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 997px) {
+  .heroContent {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Left-align content */
+  }
+}
+
+.heroTitle {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 996px) {
+  .heroTitle {
+    font-size: 2rem;
+    text-align: center;
+  }
+}
+
+.heroSubtitle {
+  color: #cbd5e1;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 996px) {
+  .heroSubtitle {
+    text-align: center;
+  }
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: flex-start; /* Left-align buttons */
+}
+
+@media screen and (max-width: 996px) {
+  .buttons {
+    justify-content: center; /* Center on mobile */
+    flex-direction: column;
+  }
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: #0f172a;
+}
+
+/* Feature section styling */
+.featureCard {
+  background: rgba(30, 41, 59, 0.8); /* #1e293b with transparency */
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  transition: all 0.3s ease;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.featureCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #6366f1, #8b5cf6);
+  transition: opacity 0.3s ease;
+  opacity: 0;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  border-color: rgba(99, 102, 241, 0.5);
+}
+
+.featureCard:hover::before {
+  opacity: 1;
+}
+
+.featureTitle {
+  color: white;
+  font-size: 1.25rem;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.featureDescription {
+  color: #cbd5e1;
+  line-height: 1.6;
+  margin: 0;
+  font-size: 1rem;
+}
+
+/* Adjust container max width to 900px as requested */
+.container {
+  max-width: 900px;
+}

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Module 1: The Robotic Nervous System (ROS 2)": {
+    "message": "Module 1: The Robotic Nervous System (ROS 2)",
+    "description": "The label for category 'Module 1: The Robotic Nervous System (ROS 2)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 2: The Digital Twin (Gazebo & Unity)": {
+    "message": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "description": "The label for category 'Module 2: The Digital Twin (Gazebo & Unity)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 3: The AI-Robot Brain (NVIDIA Isaac™)": {
+    "message": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "description": "The label for category 'Module 3: The AI-Robot Brain (NVIDIA Isaac™)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 4: Physical AI & Humanoid Robotics (Capstone)": {
+    "message": "Module 4: Physical AI & Humanoid Robotics (Capstone)",
+    "description": "The label for category 'Module 4: Physical AI & Humanoid Robotics (Capstone)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.link.Course Modules": {
+    "message": "Course Modules",
+    "description": "The label for link 'Course Modules' in sidebar 'tutorialSidebar', linking to '/modules'"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "link.title.Course": {
+    "message": "کورس",
+    "description": "The title of the footer links column with title=Course in the footer"
+  },
+  "link.title.Resources": {
+    "message": "وسائل",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.More": {
+    "message": "مزید",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Overview": {
+    "message": "جائزہ",
+    "description": "The label of footer link with label=Overview linking to /docs/intro"
+  },
+  "link.item.label.ROS Documentation": {
+    "message": "ROS دستاویزات",
+    "description": "The label of footer link with label=ROS Documentation linking to https://docs.ros.org/"
+  },
+  "link.item.label.NVIDIA Isaac": {
+    "message": "NVIDIA Isaac",
+    "description": "The label of footer link with label=NVIDIA Isaac linking to https://developer.nvidia.com/isaac"
+  },
+  "link.item.label.Gazebo Simulation": {
+    "message": "Gazebo سمیولیشن",
+    "description": "The label of footer link with label=Gazebo Simulation linking to https://gazebosim.org/"
+  },
+  "link.item.label.Module 1": {
+    "message": "Module 1",
+    "description": "The label of footer link with label=Module 1 linking to /docs/ros2-fundamentals"
+  },
+  "link.item.label.Module 2": {
+    "message": "Module 2",
+    "description": "The label of footer link with label=Module 2 linking to /docs/digital-twin-sim"
+  },
+  "link.item.label.Module 3": {
+    "message": "Module 3",
+    "description": "The label of footer link with label=Module 3 linking to /docs/isaac-ai-brain"
+  },
+  "link.item.label.Module 4": {
+    "message": "Module 4",
+    "description": "The label of footer link with label=Module 4 linking to /docs/physical-ai-hr"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/humonoid-robotics-book/physical-ai-humanoid-robotics"
+  },
+  "copyright": {
+    "message": "<div style=\"font-size: 0.85rem;\">Copyright © 2025 Physical AI & Humanoid Robotics Course. Built with Docusaurus.</div>",
+    "description": "The footer copyright"
+  }
+}

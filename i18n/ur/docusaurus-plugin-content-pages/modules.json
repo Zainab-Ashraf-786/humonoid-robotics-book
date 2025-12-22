@@ -1,0 +1,78 @@
+{
+  "module": {
+    "message": "ماڈیول",
+    "description": "Module word translation"
+  },
+  "explore_module": {
+    "message": "ماڈیول کا جائزہ لیں",
+    "description": "Explore Module translation"
+  },
+  "module.01.title": {
+    "message": "روبوٹک نروس سسٹم",
+    "description": "Module 1 title"
+  },
+  "module.01.subtitle": {
+    "message": "(ROS 2 فنڈامینٹلز)",
+    "description": "Module 1 subtitle"
+  },
+  "module.01.description": {
+    "message": "نوڈس، ٹاپکس، سروسز، اور URDF ماسٹر کریں۔ روبوٹ کمپوننٹس کو جوڑنے والے مڈل ویئر کو سیکھیں۔",
+    "description": "Module 1 description"
+  },
+  "module.02.title": {
+    "message": "ڈیجیٹل ٹوئن",
+    "description": "Module 2 title"
+  },
+  "module.02.subtitle": {
+    "message": "(گزیبو اور یونٹی)",
+    "description": "Module 2 subtitle"
+  },
+  "module.02.description": {
+    "message": "فزکس، گریویٹی، اور کولیژنز کی سیمولیشن کریں۔ ٹیسٹنگ کے لیے ورچوئل ماحول تیار کریں۔",
+    "description": "Module 2 description"
+  },
+  "module.03.title": {
+    "message": "AI روبوٹ براہین",
+    "description": "Module 3 title"
+  },
+  "module.03.subtitle": {
+    "message": "(NVIDIA Isaac™)",
+    "description": "Module 3 subtitle"
+  },
+  "module.03.description": {
+    "message": "فوٹو ریلزم سیمولیشن، VSLAM، اور GPU ایکسلریٹڈ پرسیپشن کا جائزہ لیں۔",
+    "description": "Module 3 description"
+  },
+  "module.04.title": {
+    "message": "فزیکل AI اور ہیومنوڈ روبوٹکس",
+    "description": "Module 4 title"
+  },
+  "module.04.subtitle": {
+    "message": "(انٹیگریشن اور ڈیپلائمنٹ)",
+    "description": "Module 4 subtitle"
+  },
+  "module.04.description": {
+    "message": "کامل ہیومنوڈ روبوٹ سسٹم ڈیزائن کرنے کے لیے تمام تصورات کو جوڑیں اور امبدڈ انٹیلی جنس تیار کریں۔",
+    "description": "Module 4 description"
+  },
+  "modules.page.title": {
+    "message": "کورس ماڈیولز",
+    "description": "Title for the modules page"
+  },
+  "modules.page.description": {
+    "message": "فزیکل اے آئی اور ہیومنائڈ روبوٹکس کورس میں تمام ماڈیولز کا جائزہ",
+    "description": "Description for the modules page"
+  },
+  "modules.page.subtitle": {
+    "message": "ROS 2 کے فنڈامینٹلز سے ایڈوانس فزیکل اے آئی انٹیگریشن تک جامع سیکھنے کا راستہ",
+    "description": "Subtitle for the modules page"
+  },
+  "modules.start.message": {
+    "message": "ROS 2 کے تصورات اور روبوٹکس کمیونیکیشن میں اپنی بنیاد بنانے کے لیے",
+    "description": "Message at the bottom of the modules page"
+  },
+  "modules.start.link.text": {
+    "message": "ماڈیول 1",
+    "description": "Link text for starting modules"
+  }
+}

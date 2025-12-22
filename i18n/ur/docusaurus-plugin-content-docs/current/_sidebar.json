@@ -1,0 +1,145 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "doc",
+      "id": "intro"
+    },
+    {
+      "type": "doc",
+      "id": "glossary"
+    },
+    {
+      "type": "doc",
+      "id": "course-overview"
+    },
+    {
+      "type": "link",
+      "label": "کورس ماڈیولز",
+      "href": "/modules"
+    },
+    {
+      "type": "category",
+      "label": "ماڈیول 1: روبوٹک نرو سسٹم (ROS 2)",
+      "items": [
+        {
+          "type": "doc",
+          "id": "ros2-fundamentals/index"
+        },
+        {
+          "type": "doc",
+          "id": "ros2-fundamentals/nodes-topics-services"
+        },
+        {
+          "type": "doc",
+          "id": "ros2-fundamentals/python-integration"
+        },
+        {
+          "type": "doc",
+          "id": "ros2-fundamentals/urdf"
+        },
+        {
+          "type": "doc",
+          "id": "ros2-fundamentals/conclusion"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "ماڈیول 2: ڈیجیٹل ٹوئن (گزیبو اور یونیٹی)",
+      "items": [
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/index"
+        },
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/physics-fundamentals"
+        },
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/gazebo-simulation"
+        },
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/unity-rendering"
+        },
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/sensor-simulation"
+        },
+        {
+          "type": "doc",
+          "id": "digital-twin-sim/conclusion"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "ماڈیول 3: ای آئی-روبوٹ دماغ (این ویڈیا ایزیک™)",
+      "items": [
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/index"
+        },
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/isaac-sim"
+        },
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/isaac-ros"
+        },
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/perception"
+        },
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/navigation"
+        },
+        {
+          "type": "doc",
+          "id": "isaac-ai-brain/conclusion"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "ماڈیول 4: فزیکل ای آئی اور ہیومنوڈ روبوٹکس (کیپ اسٹون)",
+      "items": [
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/index"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/chapter-1-physical-ai"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/chapter-2-llm-planning"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/chapter-3-sim2real"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/chapter-4-complete-system"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/chapter-5-vla-integration"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/vlm-technical-reference"
+        },
+        {
+          "type": "doc",
+          "id": "physical-ai-hr/conclusion"
+        }
+      ]
+    }
+  ]
+}
