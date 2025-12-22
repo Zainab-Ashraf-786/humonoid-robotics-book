@@ -82,7 +82,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/humonoid-robotics-book/physical-ai-humanoid-robotics',
+          href: 'https://github.com/ZainabFullStackLearner/humonoid-robotics-book',
           label: 'GitHub',
           position: 'right',
         },
